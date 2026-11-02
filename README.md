@@ -1,6 +1,6 @@
-﻿# Douglas Honório
+# Douglas Honório
 
-Desenvolvedor em formação com interesse em segurança de aplicações, automação e análise de dados. Construo projetos educacionais para praticar Python, JavaScript, SQL e boas práticas de desenvolvimento.
+Desenvolvedor em formação com interesse em segurança de aplicações, automação e análise de dados. Desenvolvo projetos de portfólio que aplicam Python, JavaScript, SQL e boas práticas de desenvolvimento a problemas de segurança e dados.
 
 ## Projetos em destaque
 
@@ -12,14 +12,14 @@ Laboratório interativo de eventos de segurança com simulações, regras de ale
 [Repositório](https://github.com/dhonorio73/dh73-cyberguard-soc) · [Experimentar demonstração](https://dh73-cyberguard-soc.streamlit.app/)
 
 ### 📦 Dh73 Dependency Lab
-Ferramenta educativa para examinar dependências npm localmente, com leitura de lockfiles e comparação com dados OSV fornecidos pelo usuário.
+Ferramenta de análise local de dependências npm, com leitura de lockfiles e comparação com dados OSV fornecidos pelo usuário.
 
 **JavaScript · Node.js · HTML · testes**
 
 [Repositório](https://github.com/dhonorio73/dh73-dependency-lab) · [Abrir interface](https://dhonorio73.github.io/dh73-dependency-lab/)
 
 ### 🔎 Dh73 Security Lab
-Verificador educativo de cabeçalhos HTTP a partir de dados locais, com simulador e geração de relatórios.
+Verificador de cabeçalhos HTTP a partir de dados locais, com simulador e geração de relatórios.
 
 **Python · HTML · CSS · JavaScript · testes automatizados**
 
@@ -32,9 +32,9 @@ Painel interativo com Supabase e um exercício local de processamento de arquivo
 
 [Repositório](https://github.com/dhonorio73/painel-ciber-supabase)
 
-Esses projetos são protótipos de aprendizado. Suas limitações e os dados simulados estão descritos em cada repositório.
+Estes projetos de portfólio incluem demonstrações e protótipos; os dados simulados e limites de cada solução estão descritos nos respectivos repositórios.
 
-## Tecnologias em estudo
+## Tecnologias e áreas
 
 Python · SQL · JavaScript · Node.js · HTML · CSS · Git e GitHub · Fundamentos de segurança
 
